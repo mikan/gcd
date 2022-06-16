@@ -1,6 +1,9 @@
 gcd
 ===
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/mikan/gcd)](https://goreportcard.com/report/github.com/mikan/gcd)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/mikan/gcd)](https://pkg.go.dev/github.com/mikan/gcd)
+
 A golang-implemented GCD (great-circular distance) calculator with geolocation finding feature using Google Geolocation API.
 
 Go で実装した大円距離計算機です。Google Geolocation API で地点を検索する機能もあります。
